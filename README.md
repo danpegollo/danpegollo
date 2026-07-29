@@ -1,67 +1,32 @@
-<h1 align="center">Olá 👋, eu sou Daniel</h1>
-
-<p align="center">
-Estudante de TI e desenvolvedor em aprendizado focado em Python e tecnologia.
-</p>
-
----
-
-## 🚀 Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
-</p>
+## About Me
+<h2>Hello 👋, I'm Daniel</h2>
+ 
+<ul>
+<li>Full-Stack Developer.
+<li>Graduated as an IT Technician.
+<li>Bachelor's Degree in Computer Science (in progress)
+</ul>
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danpegollo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danpegollo&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=danpegollo&theme=tokyonight"/>
-
-</div>
+## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🏆 Troféus
+## 📌 Featured Repositories
 
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=danpegollo&theme=tokyonight&row=1&column=6"/>
-
-</div>
+- 🛒 Price Monitor — Python price tracker using Web Scraping
+- 📂 File Organizer — Python tool for automatic file organization
+- 📈 PyInvest — Python project for financial calculations and investments
+- 🃏 Super Trunfo — Card game developed in Python
 
 ---
 
-## 📌 Repositórios em Destaque
+## 📫 Contact Me
 
-- 🌍 BookAway — TypeScript e React
-- 📈 PyInvest — Projeto em Python voltado para cálculos e investimentos
-- 🃏 Super Trunfo — Jogo desenvolvido em Python
-- 🧠 Exercícios de lógica de programação
-- 💻 Estudos e algoritmos em Python
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pegollo-a289ab335/)
 
----
-
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/daniel-pegollo-a289ab335/
-- Email: danielpegollo29@gmail.com
